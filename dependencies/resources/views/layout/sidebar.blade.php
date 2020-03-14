@@ -39,7 +39,7 @@
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link " href="http://www.jetsadabet.com/register/welovejetsadabet"><span class="text-upderline">สมัครสมาชิก</span></a>
+                            <a class="nav-link " href="http://www.jetsadabet.com/register/jetsadainter"><span class="text-upderline">สมัครสมาชิก</span></a>
                         </li>
                         <li class="nav-item {{$seo->slug == 'pay_rate'?'active':''}}">
                             <a class="nav-link" href="{{route('index','pay_rate')}}">อัตราการจ่าย</a>
@@ -101,7 +101,7 @@
     <div id="mySidenav" class="sidenav">
             <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
             <a href="{{route('index','home')}}">หน้าหลัก</a>
-            <a href="http://www.jetsadabet.com/register/welovejetsadabet">สมัครสมาชิก</a>
+            <a href="http://www.jetsadabet.com/register/jetsadainter">สมัครสมาชิก</a>
             <a href="{{route('index','pay_rate')}}">อัตราการจ่าย</a>
             <a href="{{route('index','special_privileges')}}">สิทธิพิเศษ</a>
             <a href="{{route('index','business_partner')}}">หุ้นส่วนธุรกิจ</a>

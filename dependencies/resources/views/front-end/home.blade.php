@@ -115,9 +115,9 @@
 @endif
 @endforeach
 <div class="container-fluid fixed-top tap-color">
-    <div class="">
+    <div class="text-center">
             <div class="py-2 posit">
-                    <a href="#">
+                    <a href="http://www.jetsadabet.com/register/jetsadainter">
                     <button class="btn btn-register">สมัครสมาขิก </button>
                     </a>
                     <a href="http://www.jetsadabet.com/login">

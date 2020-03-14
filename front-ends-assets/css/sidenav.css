@@ -97,7 +97,8 @@
  .mobile-logo {
      color: #fff;
      font-size: 18px;
-     height: 90px;
+     height: 50px;
+     margin-top: 20px;
  }
  
  .bor-nav-tran {
@@ -216,6 +217,7 @@
      z-index: 2001;
      position: relative;
      background-color: #000;
+     height: 100px;
  }
  
  .banner-home-mobile {
@@ -262,4 +264,20 @@
  }
  .text-blue {
     color: #002049 !important;
+ }
+ @media (max-width : 425px) {
+    
+    .posit {
+        position: relative;
+        right: auto;
+        text-align: center;
+    }
+    .btn-register {
+        width: 130px;
+        display: inline-block;
+        height: 40px;
+        margin: 0 4px;
+        text-align: center;
+    }
+    
  }

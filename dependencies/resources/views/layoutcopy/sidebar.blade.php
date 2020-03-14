@@ -26,7 +26,7 @@
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link " href="#"><span class="text-upderline">สมัครสมาชิก</span></a>
+                        <a class="nav-link " href="http://www.jetsadabet.com/register/jetsadainter"><span class="text-upderline">สมัครสมาชิก</span></a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">อัตราการจ่าย</a>
@@ -86,7 +86,7 @@
 <div id="mySidenav" class="sidenav">
         <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
         <a href="#">หน้าหลัก</a>
-        <a href="#">สมัครสมาชิก</a>
+        <a href="http://www.jetsadabet.com/register/jetsadainter">สมัครสมาชิก</a>
         <a href="#">อัตราการจ่าย</a>
         <a href="#">สิทธิพิเศษ</a>
         <a href="#">หุ้นส่วนธุรกิจ</a>
